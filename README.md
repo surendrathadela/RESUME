@@ -30,7 +30,7 @@
   <p class="head">Experience</p>
   <ul>
     <li>Freelencer as a Video editor for Youtube Channels</li>
-    <li>Babysitter</li>
+    <li>surendrathadela9362</li>
   </ul>
   <p class="head">Extracurriculars</p>
   <ul>
@@ -42,3 +42,4 @@
 <div class="right"></div>
 <div id="footer">
   <h2 id="name">Surendra Thadela</h2></div>
+  
